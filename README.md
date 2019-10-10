@@ -8,9 +8,9 @@
 <li>ARP Spoofing(Network Adapter Card Needed )</li>
 <li>Packet Sniffing(Network Adapter Card Needed )</li>
 <li>DNS Spoofing(Network Adapter Card Needed )</li>
-<li>JavaScript Injector</li>
-<li>Bypass HTTPS</li>
-<li>ARPSpoof Detector</li>
+<li>JavaScript Injector(Network Adapter Card Needed )</li>
+<li>Bypass HTTPS(Network Adapter Card Needed )</li>
+<li>ARPSpoof Detector(Network Adapter Card Needed )</li>
 <li><a href="https://github.com/adilshehzad786/Python-Keyloggers/tree/master/Malware%20-%20Keylogger%20-%20Backdoor">Malware - <em>Keylogger</em> - <em>Backdoor</em></a></li>
 <li>Packaging - <em>Pyinstaller</em></li>
 <li>Web Crawler</li>
