@@ -1,1 +1,4 @@
+Go to Your Linux Terminal And type 
 python mac_changer -i eth0 -m 00:11:22:33:44:55
+
+Type ifconfig to check 
