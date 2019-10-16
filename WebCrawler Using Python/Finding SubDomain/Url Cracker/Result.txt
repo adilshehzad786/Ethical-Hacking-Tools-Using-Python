@@ -1,0 +1,7 @@
+[+]urls ---> https://viberrbyadil.herokuapp.com/static/favicon.ico
+[+]urls ---> https://viberrbyadil.herokuapp.com/static/music/style.css
+[+]urls ---> https://viberrbyadil.herokuapp.com/music/
+[+]urls ---> https://viberrbyadil.herokuapp.com/music/register/
+[+]urls ---> https://viberrbyadil.herokuapp.com/music/login_user/
+[+]urls ---> https://viberrbyadil.herokuapp.com/
+[Finished in 22.5s]
