@@ -20,7 +20,7 @@
   
 <li><a href="https://github.com/adilshehzad786/Python-Keyloggers/tree/master/BruteForce%20-%20Guess%20LoginForm/Simple%20Password%20Guesser">Guess Login Password BruteForce</a></li>
   
-<li><a href="https://github.com/adilshehzad786/Python-Keyloggers/tree/master/Vulnerability%20Scanner/Extract%20forms">Vulnerability Scanner</a></li>
+<li><a href="https://github.com/adilshehzad786/Python-Keyloggers/tree/master/Vulnerability%20Scanner/Extract%20forms">Vulnerability Scanner XSS(Cross Site Scripting Vulnerability) </a></li>
 
 <li>Attacks HTML Injection, Host Header Injection</li>
 
