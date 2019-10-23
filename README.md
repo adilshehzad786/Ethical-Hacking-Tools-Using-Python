@@ -26,6 +26,7 @@
 <li>JavaScript Injector(Network Adapter Card Needed )</li>
 <li>Bypass HTTPS(Network Adapter Card Needed )</li>
 <li>ARPSpoof Detector(Network Adapter Card Needed )</li>
+  <li>Multi-functional Reverse Shells</li>
 <li><a href="https://github.com/adilshehzad786/Python-Keyloggers/tree/master/Malware%20-%20Keylogger%20-%20Backdoor">Malware - <em>Keylogger</em> - <em>Backdoor</em></a></li>
 <li><a href="https://github.com/adilshehzad786/Python-Keyloggers/tree/master/Malware%20-%20Keylogger%20-%20Backdoor/Reverse%20Backdoor%20With%20Registry%20Control%20%26%20Uploading%20Downloading%20Features">Packaging - <em>Pyinstaller</em></a></li>
 <li><a href="https://github.com/adilshehzad786/Python-Keyloggers/tree/master/WebCrawler%20Using%20Python/Finding%20SubDomain">Web Crawler</a></li>
