@@ -22,7 +22,7 @@ def restore(destination_ip,source_ip):
 	destination_mac=get_mac(destination_ip)
 	source_mac=get_mac(source_ip)
 	packet=scapy.ARP(op=2,pdst=destination_ip,hwdst=destination_mac,psrc=source_ip)
-    scapy.send(packet,count=4,verbose=False)
+        scapy.send(packet,count=4,verbose=False)
 
 gateway_ip="10.0.2.1"
 target_ip="10.0.2.7"
@@ -40,8 +40,8 @@ except KeyboardInterrupt:
 
 	print("[+] Detected CTRL + C ....Resetting ARP tables Please Wait ...")
 
-    restore(target_ip,gateway_ip)
-    restore(gateway_ip,target_ip)
+        restore(target_ip,gateway_ip)
+        restore(gateway_ip,target_ip)
 	
 	
 
