@@ -6,7 +6,7 @@
 <body style="background-color:powderblue;">
 
 <h1>Credit:</h1>
-<p>Zaid Sabih </p>
+
 <p></p>
 <h1>Contributions By :</h1>
 </body>
@@ -16,7 +16,7 @@
 
 <li><a href="https://github.com/adilshehzad786/Ethical-Hacking-Using-Python/tree/master/Nmap/Customized%20Nmap%201.0">Nmap </a></li>
 <li><a href="https://github.com/adilshehzad786/Ethical-Hacking-Tools-Using-Python/tree/master/Network%20Scanner%20Using%20Alpha%20AWUS036H">Network Scanner </a> </li>
-<li>ARP Spoofing(Network Adapter Card Needed )</li>
+<li><a href="https://github.com/adilshehzad786/Ethical-Hacking-Tools-Using-Python/tree/master/ARP%20Spoofing%20Using%20AWUS036H">ARP Spoofing</li>
 <li>Packet Sniffing(Network Adapter Card Needed )</li>
 <li>DNS Spoofing(Network Adapter Card Needed )</li>
 <li>JavaScript Injector(Network Adapter Card Needed )</li>
@@ -32,7 +32,7 @@
      <li><a href="https://github.com/adilshehzad786/Ethical-Hacking-Using-Python/tree/master/Nmap/Customized%20Nmap%201.0">Nmap </a></li>
  <li>DOS & DDOS TOOLS </li>
 <li><a href="https://github.com/adilshehzad786/Ethical-Hacking-Tools-Using-Python/tree/master/Network%20Scanner%20Using%20Alpha%20AWUS036H">Network Scanner </a> </li>
-<li>ARP Spoofing(Network Adapter Card Needed )</li>
+<li><a href="https://github.com/adilshehzad786/Ethical-Hacking-Tools-Using-Python/tree/master/ARP%20Spoofing%20Using%20AWUS036H">ARP Spoofing</li>
 <li>Packet Sniffing(Network Adapter Card Needed )</li>
 <li>DNS Spoofing(Network Adapter Card Needed )</li>
 <li>JavaScript Injector(Network Adapter Card Needed )</li>
