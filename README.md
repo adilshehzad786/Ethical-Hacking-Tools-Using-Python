@@ -1,7 +1,7 @@
 # Ethical Hacking Using Python
 # Use Metasploitable & Linux Operating System For Practice. 
 
-<li><a href="#">Network Adapter Card </a></li>
+<li><a href="http://adilshehzad.me/best-wireless-network-adapter-for-wifi-hacking-in-2020.html">Network Adapter Card </a></li>
 
 <body style="background-color:powderblue;">
 
